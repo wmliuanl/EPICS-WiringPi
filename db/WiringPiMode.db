@@ -1,0 +1,212 @@
+
+record(bo, "$(IOCName):RPiGPIO:Ch02_Mode") {
+	field(DTYP, "WiringPi")
+	field(DESC, "WiringPi CH02")
+	field(OUT, "@Mode:2")
+	field(VAL, 1)
+	field(PINI, "YES")
+}
+
+record(bo, "$(IOCName):RPiGPIO:Ch03_Mode") {
+	field(DTYP, "WiringPi")
+	field(DESC, "WiringPi CH03")
+	field(OUT, "@Mode:3")
+	field(VAL, 1)
+	field(PINI, "YES")
+}
+
+record(bo, "$(IOCName):RPiGPIO:Ch04_Mode") {
+	field(DTYP, "WiringPi")
+	field(DESC, "WiringPi CH04")
+	field(OUT, "@Mode:4")
+	field(VAL, 1)
+	field(PINI, "YES")
+}
+
+record(bo, "$(IOCName):RPiGPIO:Ch05_Mode") {
+	field(DTYP, "WiringPi")
+	field(DESC, "WiringPi CH05")
+	field(OUT, "@Mode:5")
+	field(VAL, 1)
+	field(PINI, "YES")
+}
+
+record(bo, "$(IOCName):RPiGPIO:Ch06_Mode") {
+	field(DTYP, "WiringPi")
+	field(DESC, "WiringPi CH06")
+	field(OUT, "@Mode:6")
+	field(VAL, 1)
+	field(PINI, "YES")
+}
+
+record(bo, "$(IOCName):RPiGPIO:Ch07_Mode") {
+	field(DTYP, "WiringPi")
+	field(DESC, "WiringPi CH07")
+	field(OUT, "@Mode:7")
+	field(VAL, 1)
+	field(PINI, "YES")
+}
+
+record(bo, "$(IOCName):RPiGPIO:Ch08_Mode") {
+	field(DTYP, "WiringPi")
+	field(DESC, "WiringPi CH08")
+	field(OUT, "@Mode:8")
+	field(VAL, 1)
+	field(PINI, "YES")
+}
+
+record(bo, "$(IOCName):RPiGPIO:Ch09_Mode") {
+	field(DTYP, "WiringPi")
+	field(DESC, "WiringPi CH09")
+	field(OUT, "@Mode:9")
+	field(VAL, 1)
+	field(PINI, "YES")
+}
+
+record(bo, "$(IOCName):RPiGPIO:Ch10_Mode") {
+	field(DTYP, "WiringPi")
+	field(DESC, "WiringPi CH10")
+	field(OUT, "@Mode:10")
+	field(VAL, 1)
+	field(PINI, "YES")
+}
+
+record(bo, "$(IOCName):RPiGPIO:Ch11_Mode") {
+	field(DTYP, "WiringPi")
+	field(DESC, "WiringPi CH11")
+	field(OUT, "@Mode:11")
+	field(VAL, 1)
+	field(PINI, "YES")
+}
+
+record(bo, "$(IOCName):RPiGPIO:Ch12_Mode") {
+	field(DTYP, "WiringPi")
+	field(DESC, "WiringPi CH12")
+	field(OUT, "@Mode:12")
+	field(VAL, 1)
+	field(PINI, "YES")
+}
+
+record(bo, "$(IOCName):RPiGPIO:Ch13_Mode") {
+	field(DTYP, "WiringPi")
+	field(DESC, "WiringPi CH13")
+	field(OUT, "@Mode:13")
+	field(VAL, 1)
+	field(PINI, "YES")
+}
+
+record(bo, "$(IOCName):RPiGPIO:Ch14_Mode") {
+	field(DTYP, "WiringPi")
+	field(DESC, "WiringPi CH14")
+	field(OUT, "@Mode:14")
+	field(VAL, 1)
+	field(PINI, "YES")
+}
+
+record(bo, "$(IOCName):RPiGPIO:Ch15_Mode") {
+	field(DTYP, "WiringPi")
+	field(DESC, "WiringPi CH15")
+	field(OUT, "@Mode:15")
+	field(VAL, 1)
+	field(PINI, "YES")
+}
+
+record(bo, "$(IOCName):RPiGPIO:Ch16_Mode") {
+	field(DTYP, "WiringPi")
+	field(DESC, "WiringPi CH16")
+	field(OUT, "@Mode:16")
+	field(VAL, 1)
+	field(PINI, "YES")
+}
+
+record(bo, "$(IOCName):RPiGPIO:Ch17_Mode") {
+	field(DTYP, "WiringPi")
+	field(DESC, "WiringPi CH17")
+	field(OUT, "@Mode:17")
+	field(VAL, 1)
+	field(PINI, "YES")
+}
+
+record(bo, "$(IOCName):RPiGPIO:Ch18_Mode") {
+	field(DTYP, "WiringPi")
+	field(DESC, "WiringPi CH18")
+	field(OUT, "@Mode:18")
+	field(VAL, 1)
+	field(PINI, "YES")
+}
+
+record(bo, "$(IOCName):RPiGPIO:Ch19_Mode") {
+	field(DTYP, "WiringPi")
+	field(DESC, "WiringPi CH19")
+	field(OUT, "@Mode:19")
+	field(VAL, 1)
+	field(PINI, "YES")
+}
+
+record(bo, "$(IOCName):RPiGPIO:Ch20_Mode") {
+	field(DTYP, "WiringPi")
+	field(DESC, "WiringPi CH20")
+	field(OUT, "@Mode:20")
+	field(VAL, 1)
+	field(PINI, "YES")
+}
+
+record(bo, "$(IOCName):RPiGPIO:Ch21_Mode") {
+	field(DTYP, "WiringPi")
+	field(DESC, "WiringPi CH21")
+	field(OUT, "@Mode:21")
+	field(VAL, 1)
+	field(PINI, "YES")
+}
+
+record(bo, "$(IOCName):RPiGPIO:Ch22_Mode") {
+	field(DTYP, "WiringPi")
+	field(DESC, "WiringPi CH22")
+	field(OUT, "@Mode:22")
+	field(VAL, 1)
+	field(PINI, "YES")
+}
+
+record(bo, "$(IOCName):RPiGPIO:Ch23_Mode") {
+	field(DTYP, "WiringPi")
+	field(DESC, "WiringPi CH23")
+	field(OUT, "@Mode:23")
+	field(VAL, 1)
+	field(PINI, "YES")
+}
+
+
+record(bo, "$(IOCName):RPiGPIO:Ch24_Mode") {
+	field(DTYP, "WiringPi")
+	field(DESC, "WiringPi CH24")
+	field(OUT, "@Mode:24")
+	field(VAL, 1)
+	field(PINI, "YES")
+}
+
+record(bo, "$(IOCName):RPiGPIO:Ch25_Mode") {
+	field(DTYP, "WiringPi")
+	field(DESC, "WiringPi CH25")
+	field(OUT, "@Mode:25")
+	field(VAL, 1)
+	field(PINI, "YES")
+}
+
+record(bo, "$(IOCName):RPiGPIO:Ch26_Mode") {
+	field(DTYP, "WiringPi")
+	field(DESC, "WiringPi CH26")
+	field(OUT, "@Mode:26")
+	field(VAL, 1)
+	field(PINI, "YES")
+}
+
+
+
+record(bo, "$(IOCName):RPiGPIO:Ch27_Mode") {
+	field(DTYP, "WiringPi")
+	field(DESC, "WiringPi CH27")
+	field(OUT, "@Mode:27")
+	field(VAL, 1)
+	field(PINI, "YES")
+}
+

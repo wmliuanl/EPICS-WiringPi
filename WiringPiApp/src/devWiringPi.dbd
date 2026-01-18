@@ -1,0 +1,2 @@
+device(bo,INST_IO,devWiringPibo, "WiringPi")
+device(bi,INST_IO,devWiringPibi, "WiringPi")
